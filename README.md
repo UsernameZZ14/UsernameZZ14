@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repozitory
 
 <!--
 **UsernameZZ14/UsernameZZ14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
